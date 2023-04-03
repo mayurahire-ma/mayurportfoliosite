@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/mayurportfoliosite/static/css/main.b7e4c023.css",
+    "main.js": "/mayurportfoliosite/static/js/main.56b4d1c4.js",
+    "static/js/787.1ed0c42c.chunk.js": "/mayurportfoliosite/static/js/787.1ed0c42c.chunk.js",
+    "static/media/me-about.jpg": "/mayurportfoliosite/static/media/me-about.e9c98a4eada2bf16118b.jpg",
+    "static/media/CV.pdf": "/mayurportfoliosite/static/media/CV.3293458332e26f24a7ec.pdf",
+    "static/media/portfolio5.png": "/mayurportfoliosite/static/media/portfolio5.a82ae9a163c1ac5e3a07.png",
+    "static/media/portfolio2.jpg": "/mayurportfoliosite/static/media/portfolio2.ae187bc4e43ae6dbc263.jpg",
+    "static/media/me.png": "/mayurportfoliosite/static/media/me.818befe3c7fb74ebe381.png",
+    "static/media/portfolio6.jpg": "/mayurportfoliosite/static/media/portfolio6.72d1107e313049cf15a7.jpg",
+    "static/media/portfolio1.jpg": "/mayurportfoliosite/static/media/portfolio1.f5e72352e5aa840702b8.jpg",
+    "static/media/portfolio3.jpg": "/mayurportfoliosite/static/media/portfolio3.cbab42559fe73e73906f.jpg",
+    "static/media/portfolio4.jpg": "/mayurportfoliosite/static/media/portfolio4.6bf60cbb8fe5f7d7af5d.jpg",
+    "index.html": "/mayurportfoliosite/index.html",
+    "main.b7e4c023.css.map": "/mayurportfoliosite/static/css/main.b7e4c023.css.map",
+    "main.56b4d1c4.js.map": "/mayurportfoliosite/static/js/main.56b4d1c4.js.map",
+    "787.1ed0c42c.chunk.js.map": "/mayurportfoliosite/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b7e4c023.css",
+    "static/js/main.56b4d1c4.js"
+  ]
+}
